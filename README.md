@@ -45,7 +45,7 @@ grixcwoey/rlSB0nfiQ+1aQNPuKenHn+BTo1J18WB/ZuqiHM13x3ELI=
 How to connect as grader:
 save private key provided in your local machine and run the following command
 
-ssh -i path/to/privatekey -p 2200 grader@13.126.215.145
+ssh -i path/to/privatekey -p 2200 grader@52.66.166.167
   
 Configuring Linux Server
 Updating all packages
