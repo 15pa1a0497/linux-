@@ -256,7 +256,7 @@ Add the following code
  application.secret_key = 'Add your secret key'
 save and exit
 
-Deploying flask app with apache2 is referred from Digital ocean
+ Deploying flask app with apache2 is referred from [Digital ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
 
 Installing require modules
 You can either install all modules on your machine or create a virtual environment for the project and install the modules To Create virtual environment: sudo virtualenv venv To activate virtual environment: source venv/bin/activate pip install flask sqlalchemy psycopg2 requests oauth2client
@@ -284,3 +284,8 @@ Restart your apache2 server
 sudo service apache2 restart
 
 "# Linux-"
+## References
+
+https://www.digitalocean.com
+https://github.com/crazyvny
+
