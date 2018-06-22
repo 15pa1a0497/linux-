@@ -1,8 +1,11 @@
-# linux-
+# Linux-Server-Configuration
+
 #### About
+
 This project is submitted under Udacity Full Stack web Development Nanodegree Final Project
 
 #### Server Details
+
 Server Static IP Address 52.66.166.167
 
 Hosted site Url [http:52.66.166.167.xip.io]
