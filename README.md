@@ -9,11 +9,49 @@ Hosted site Url [http:52.66.166.167.xip.io]
 
 Grader Password
 ashish
+Software Requirements:
+AWS account with lightsail service activated.
+
+1)Python Pip
+
+2)Postgres
+
+3)httplib2
+
+4)SQLAlchemy
+
+5)Apache2
+
+6)Flask
+
+7)Virtualenv
+
+8)Requests
+
+9)Oauth2client
+
+Installation Process for softwares:
+sudo apt-get install apache2		
+
+ sudo apt-get install python-setuptools libapache2-mod-wsgi
+
+ sudo a2enmod wsgi
+
+ cd /var/www
+
+ sudo mkdir FlaskApp
+
+ sudo apt-get install git
+
+ sudo apt-get install python-pip virtualenv
+
+ sudo virtualenv venv
+
+ sudo pip install Flask
+
+ sudo pip install postgresql oauth2client httplib2 requests psycopg2
 
 Grader Key
-Download Key from above or
-
-
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEAxOlmcRkqrkZSywi8eV0H+5sXVz/2idP9Uf5oZ3y9m0jCv0K7
 BjDe3HI7gwRtW19qPWU+GwcGYDYUAJ/okQ4RpL5eGv6liJIKimer9tJT5r1Bpjit
