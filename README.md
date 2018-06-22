@@ -7,9 +7,12 @@ Server Static IP Address 52.66.166.167
 
 Hosted site Url [http:52.66.166.167.xip.io]
 
-Grader Password
+Grader Password:
+
 ashish
+
 Software Requirements:
+
 AWS account with lightsail service activated.
 
 1)Python Pip
