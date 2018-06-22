@@ -102,6 +102,9 @@ Updating all packages
 
     sudo apt-get update
     sudo apt-get upgrade
+    
+All the packages are updated for your reference a screenshot is attached.
+
 ##### Creating grader User:
 
     sudo adduser grader
