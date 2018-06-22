@@ -56,6 +56,7 @@ AWS account with lightsail service activated.
     sudo pip install postgresql oauth2client httplib2 requests psycopg2
 
 Grader Key
+
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEAxOlmcRkqrkZSywi8eV0H+5sXVz/2idP9Uf5oZ3y9m0jCv0K7
 BjDe3HI7gwRtW19qPWU+GwcGYDYUAJ/okQ4RpL5eGv6liJIKimer9tJT5r1Bpjit
@@ -82,6 +83,7 @@ mB9q8ZRdYLy4zvB3jhqzcMUNLHZnCGheNReW9pbP0ZiPuR111zLQlHAUx7gFYTrY
 sddPmt0CgYBNL+b2nEjHdtaVQgilvKU05APsNyCC6tBHdKDR/MCcJJiljDokp9tb
 SQIgJesT5xWi1o8ybBsARbYCOkuQdFPcUirozmw/QJH9BWPLiUJBzku4VA9iMkSL
 g1JZQtqTLpIv92K2hqeKeuE7O14rzUyZOmhfA766AZ9SGxc0kaHPKA==
+
 -----END RSA PRIVATE KEY-----
 
 
